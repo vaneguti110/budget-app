@@ -11,6 +11,6 @@ Budget App:
 - User needs to fill type, description and value to enter an income or an expense
 
 
-In the website, it will show the budget app with the current date when it started to use and displays the incomes, expenses and the percentage with the respective budget.
+>In the website, it will show the budget app with the current date when it started to use and displays the incomes, expenses and the >percentage with the respective budget.
 
 
