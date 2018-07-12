@@ -4,7 +4,7 @@ This is a project using html, css, javascript, and images for a budget app (http
 
 Budget App:
 
-- User chooses betwwen incomes and expenses
+- User chooses between incomes and expenses
 - Incomes are represents in color blue when select the plus (+) sign in the type value
 - Expenses are represents in color red when select the minus (-) sign in the type value
 - In the Expenses list, the percentage field show how much expense is your value compare to the current income.
